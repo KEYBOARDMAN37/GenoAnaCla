@@ -1,5 +1,5 @@
 # GenoAnaCla (Genome Analyzer and Classifier)
-The zip file contains three folders: (1) AccessionID, (2) code and (3) preprocessed abstracted genome sequences. 
+There are three folders: (1) AccessionID, (2) code and (3) preprocessed abstracted genome sequences. 
 
 (1)AccessionID folder contains the Genbank’s ID of collected genome sequences of 15 RNA viruses. Genome sequences were downloaded in three forms (Nucleotide, Coding Region and Protein). 
 
